@@ -294,11 +294,11 @@ as we can see. **less** command is allowed to use with Sudo.
 
 #GTFObins website can help is to get the root access. 
 
-![[broklyn 1.png]]
+![](https://i.imgur.com/eNQYBhk.png)
 
 we will get this
 
-![[x.png]]
+![](https://i.imgur.com/oFAeWIZ.png)
 
 So lets we go back to jake machine
 
